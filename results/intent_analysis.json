@@ -1,0 +1,38 @@
+{
+  "total_analyzed": 94098,
+  "distribution": {
+    "DEVICE_FREEZE_REBOOT": 3719,
+    "SOFTWARE_UPDATE_ISSUES": 30203,
+    "OTHER_UNCLASSIFIED": 40332,
+    "ACCOUNT_APPLE_ID_SECURITY": 2496,
+    "ICLOUD_STORAGE_SYNC": 2535,
+    "HARDWARE_REPAIR_SERVICE_INQUIRY": 1403,
+    "HARDWARE_DISPLAY_AUDIO": 3199,
+    "BATTERY_POWER_ISSUES": 4926,
+    "CONNECTIVITY_NETWORK_BLUETOOTH": 2570,
+    "GENERAL_HOW_TO_INFO": 1455,
+    "BILLING_APP_STORE_SUBSCRIPTION": 1260
+  },
+  "unclassified_samples": [
+    "@applesupport i just tried removing it and re-adding it. i told siri goodnight and she responded by, \u201cok, the scene is set.\u201d only nothing happens until i open home and click goodnight.",
+    "y\u2019all need to fix whatever bug is causing the letter \u201ci\u201d to not function properly. asap @applesupport",
+    "@applesupport i can\u2019t because it sends a code to the phone i can\u2019t use??",
+    "@applesupport check ya dms plz",
+    "@applesupport they finally showed up - thanks. although i think my shipping dates slipped a bit from when i had placed he reservations...",
+    "@applesupport question, is the 4k apple tv backward compatible with a 1080p hd tv? would like to future proof if possible and buy the 4k.",
+    "@applesupport hey, i just tried download the final cut pro x trial but it says it's incompatible with high sierra. can i not download then?",
+    "also itunes has a limit of authorization on five computers. i've gone through a couple laptops since i made my account at 13 years old. so i dont have access to unauthorize those computers anymore so fuck me right? @applesupport @user",
+    "@user @applesupport what\u2019s happening here? https://t.co/qtdujwtnzj",
+    "my iphone is freaking the fuck out, last night it was freezing & rn like 300 deleted pics from this past year suddenly reappeared smh @user",
+    "got one of these expanding iphone 8s today at target. @user, @applesupport what's up with that? took an hour to buy and activate phone and another trip and another hour to return and get a new one. will the new one be prone to similar expansion? https://t.co/up35kmzejl",
+    "@applesupport i\u2019m unable to make new playlists...",
+    "@applesupport weeks ago! i\u2019ve got iphone 7 since july.",
+    "@applesupport the watch isn't broken, the band is. my other bands work fine, and it's a brand new series 3 watch.",
+    "@user @applesupport where\u2019s my siri yo https://t.co/rweoiqdqr2",
+    "@applesupport why does the letter \u201ci\u201d keep getting autocorrected: https://t.co/cazqwazlmq",
+    "please @user @applesupport \ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff\ud83d\udc47\ud83c\udfff https://t.co/zdwiyavwhn",
+    "@applesupport i\ufe0f don\u2019t understand why i\ufe0f have to do these steps in the first place. fix it.",
+    "@applesupport thx",
+    "@user @applesupport omg !!! i\u2019m not the only one"
+  ]
+}

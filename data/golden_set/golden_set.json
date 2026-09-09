@@ -1,0 +1,2905 @@
+[
+  {
+    "id": "gold_001",
+    "conversation_id": "643214_643213",
+    "customer_tweet_id": 643214,
+    "customer_message": "@AppleSupport I have not been able to install new apps. Your chat and call support is worse. I want this to be fixed ASAP",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're here for you. Send us a DM, and we'll take a closer look at the issue together there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_002",
+    "conversation_id": "1906653_1906652",
+    "customer_tweet_id": 1906653,
+    "customer_message": "@AppleSupport this is my Lock Screen showing nothing..! Aaargghh..! IOS 11.0.3 sucks. And my battery drains faster than before \ud83d\ude4f\ud83c\udffb\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude21 https://t.co/gg5uDMxjDa",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We want to make sure we get to the bottom of this. Please meet us in DM so we may gather information, and better assist. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_003",
+    "conversation_id": "2093863_2093862",
+    "customer_tweet_id": 2093863,
+    "customer_message": "@AppleSupport your update to fix the \u201cbugs\u201d apparently has a bug itself. Connected with WiFi and... https://t.co/KJzR1dKKdc",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're here to help. Let's meet in DM and talk about it. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_004",
+    "conversation_id": "1947688_1947687",
+    "customer_tweet_id": 1947688,
+    "customer_message": "@user @AppleSupport so I downloaded a bunch of music albums in Apple Music app. But suddenly they l are disappeared. Can see and check",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's find out what's going on with your music! Had the missing music been downloaded for offline listening previously?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_005",
+    "conversation_id": "1621181_1621180",
+    "customer_tweet_id": 1621181,
+    "customer_message": "@AppleSupport Asking for Update and still showing warning. What is the solution ?? https://t.co/mzIgfgy49E",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to see how we can help. Please join us in DM. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_006",
+    "conversation_id": "877917_877916",
+    "customer_tweet_id": 877917,
+    "customer_message": "@user fix your iOS! It\u2019s trash! I can\u2019t open ANY of my apps without them crashing and your music widget is broken",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We want to help. Send us a DM letting us know if you are updated to iOS 11.0.2. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_007",
+    "conversation_id": "328071_328070",
+    "customer_tweet_id": 328071,
+    "customer_message": "Between @user pathetic service and this new @user update that\u2019s draining the very life from my phone I can\u2019t deal\ud83d\ude29\ud83d\ude29\ud83d\ude29",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let us help. Tell us more about what you're experiencing after updating. Also, which iOS version in Settings > General > About?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_008",
+    "conversation_id": "582804_582803",
+    "customer_tweet_id": 582804,
+    "customer_message": "@user Your OS update erased my phone without backup, and now your Apple Support is hanging up the phone on me? This Apple household is switching!",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to know more about you recent Apple experience, DM us and tell us more about what happened. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_009",
+    "conversation_id": "2042434_2042433",
+    "customer_tweet_id": 2042434,
+    "customer_message": "@AppleSupport why does my iphone 6s become slower after updating to ios 11?",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user That's not the experience we want for you, and we're here to help. To get started, DM us more info about what's going on. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_010",
+    "conversation_id": "368805_368804",
+    "customer_tweet_id": 368805,
+    "customer_message": "@AppleSupport Yeah I have the 11.0.2 update & my phone is pretty slow and freezes all the time now. Same with some of my friends.",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user What model of iPhone do you have? Let's dig into this deeper together over DM: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_011",
+    "conversation_id": "103151_103150",
+    "customer_tweet_id": 103151,
+    "customer_message": "@user my iPhone gets slower and slower with every update and for this I thank you, keep up the good work",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We know how important updates are and we want to help you use the device as you expect. DM us what device and iOS version you're using. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_012",
+    "conversation_id": "1528784_1528783",
+    "customer_tweet_id": 1528784,
+    "customer_message": "Dear @AppleSupport what is going on with the keyboard since the last update.",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user What's going on with your keyboard? DM us the details and we'll work together to get things sorted. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_013",
+    "conversation_id": "1049025_1049024",
+    "customer_tweet_id": 1049025,
+    "customer_message": "My phone is constantly freezing. I just got it a few months ago. Any updates on software fixes? @AppleSupport",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to look into this with you. Do you notice if this happens when you're using certain apps or features? Can you let us know which iOS version you have installed? You can see this in Settings > General > About. Let's meet up in DM to continue: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_014",
+    "conversation_id": "1340791_1340789",
+    "customer_tweet_id": 1340791,
+    "customer_message": "@AppleSupport hello , I want to make an update for my iPhone and I don't have a laptop for backup Can I backup by buying iCloud storage",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Hi there. If you don't have enough iCloud Storage to back up, you can purchase more. Check this out: https://t.co/nLbyAohjV7",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_015",
+    "conversation_id": "1039737_1039735",
+    "customer_tweet_id": 1039737,
+    "customer_message": "@user @AppleSupport I didn\u2019t think my battery life could get worse after the last few updates, but 11.1 continues the trend. #FixIt #ios11 https://t.co/8SUQSVRGTZ",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd be glad to check into your battery usage with you. Send us a DM letting us know which iPhone you're using: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_016",
+    "conversation_id": "2743062_2743059",
+    "customer_tweet_id": 2743062,
+    "customer_message": "My iPhone 7 went from being able to stay charged all day to having to charge before lunch. Update 11.1.1. @AppleSupport",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Having a reliable battery life is important! Let\u2019s dig a little deeper to see what we can find out. We\u2019ll need to start by backing up and updating to iOS 11.1.2 as that is the latest. Let us know if you\u2019re still having issues after the update.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_017",
+    "conversation_id": "2000039_2000038",
+    "customer_tweet_id": 2000039,
+    "customer_message": "@user with your new IOS version you\u2019ve turned my iphone into a useless piece of shit",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user What's going on with your iPhone? DM us the details and we'd be more than happy to figure out a solution with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_018",
+    "conversation_id": "2687735_2687734",
+    "customer_tweet_id": 2687735,
+    "customer_message": "@AppleSupport Yo that new update trash my phones is stuck on the load screen",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Thanks for reaching out! We'd be happy to help with your iPhone. How long has it been stuck on the loading screen?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_019",
+    "conversation_id": "331378_331379",
+    "customer_tweet_id": 331378,
+    "customer_message": "@AppleSupport Yes, charging works properly with a USB-A cable",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Just to check, you don't receive any messages about an unsupported accessory?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_020",
+    "conversation_id": "2070817_2070816",
+    "customer_tweet_id": 2070817,
+    "customer_message": "My phone\u2019s battery lasts for less than 2 hours now @user fix this",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user This isn't expected behavior. Let's look into this together. Which iOS version are you running? Let us know in DM: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_021",
+    "conversation_id": "2485885_2485886",
+    "customer_tweet_id": 2485885,
+    "customer_message": "@AppleSupport My tasks/ windows in the background are always shut in order to prevent useless battery usage. Not ready to buy a new iPhone either \ud83e\udd28",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to gather some more details. Meet us in DM and we'll continue from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_022",
+    "conversation_id": "2302356_2302355",
+    "customer_tweet_id": 2302356,
+    "customer_message": "@AppleSupport @user see this video! I opened Snapchat and it's stuck. Home/power button doesn't do anything! It is becoming worse! \ud83d\ude21 https://t.co/DXpfTBu5Se",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user we can help. Does this happen with other apps? Also, are you using the latest iOS 11.1.1? DM us your reply to continue. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_023",
+    "conversation_id": "1874422_1874421",
+    "customer_tweet_id": 1874422,
+    "customer_message": "3 GRAND FOR THIS SHIT AND THIS STUPID WEAK ASS MAGNETIC CHARGER BE FALLIN OFF WITH THE LIGHTEST TOUCH SMH @user https://t.co/cbySD8YZj4",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Hi, how long has this been going on? Have you checked and cleared the cable and port of any debris? DM us back to continue. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_024",
+    "conversation_id": "2302723_2302722",
+    "customer_tweet_id": 2302723,
+    "customer_message": "@user Been up for 2 1/2 hrs and battery is down 13 %. This is ridiculous, no change in phone usage habits. The only thing that\u2019s changed is @user releasing the iPhone 8. I have the iPhone 7 Plus and the battery just mysteriously went to crap as soon as they released the new 1.",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to continue working with you on your battery. Please look for our response to your DM shortly.",
+    "reference_resolution_points": [
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_025",
+    "conversation_id": "1414843_2451724",
+    "customer_tweet_id": 1414843,
+    "customer_message": "@user Yes only using the car USB port. However I can charge and use my old Samsung phone on the same USB port\ud83d\ude41",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Are you using the USB cable that came with your iPhone? Have you tried a different lightning cable?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_026",
+    "conversation_id": "1824916_1824915",
+    "customer_tweet_id": 1824916,
+    "customer_message": "@user my 6s is 1 year old or less, and its battery doesnt charge anymore. Every time it discharge i have to take my cell phone to the store",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to look into this with you. Let's work together in DM where we can learn more about what you're experiencing. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_027",
+    "conversation_id": "1194029_1194028",
+    "customer_tweet_id": 1194029,
+    "customer_message": "Nevermind I see know. My Shit ain\u2019t holding a damn charge no more. @user @AppleSupport y\u2019all need to fix this. https://t.co/GHMdzEKDHT",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We want you to have a good experience with the update. Please send us a DM. https://t.co/GDrqU2kzhr",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_028",
+    "conversation_id": "242653_761292",
+    "customer_tweet_id": 242653,
+    "customer_message": "@user @user @AppleSupport i\u2019m having the same problem and it\u2019s pretty annoying because it drains my battery when the screen brightness is all the way up",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Thanks for reaching out. We're here to help. DM us so we can look into this further with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_029",
+    "conversation_id": "1387570_1387569",
+    "customer_tweet_id": 1387570,
+    "customer_message": "I hate @user for killing my battery not even 18 months after getting a new phone. Christ",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Battery life is very important. Reach out via DM using the link below. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_030",
+    "conversation_id": "236844_236843",
+    "customer_tweet_id": 236844,
+    "customer_message": "@user WTF I\u2019ve been using my phone for 15 minutes and my battery life has gone down 24%. I\u2019m about done with you guys.",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We\u2019d like to offer our support. DM us which device and version of iOS you\u2019re using to begin. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_031",
+    "conversation_id": "1546716_1546715",
+    "customer_tweet_id": 1546716,
+    "customer_message": "@user @user @user Tbh mine was quality for the first 10 months and recently it\u2019s been awful. Lee always put the battery low power mode on and it helps",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user If you're having battery life issues on your iPhone, we'd like to take a look. Reach out to us via DM with the details, including which specific iOS version is currently installed. We'll meet up with you there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_032",
+    "conversation_id": "1980769_1980768",
+    "customer_tweet_id": 1980769,
+    "customer_message": "@AppleSupport Would I be able to check the overall battery health of my iPhone 6S Plus?",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're here to help whenever possible. DM the specific issue you're having with your battery so we can look into this with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_033",
+    "conversation_id": "714194_714193",
+    "customer_tweet_id": 714194,
+    "customer_message": "@user lightning chargers are fucking awful...I just had three chargers replaced and now the replacements are all broken",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to look into your replacement options with you. Please send us a DM to get started.",
+    "reference_resolution_points": [
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_034",
+    "conversation_id": "2590420_2590419",
+    "customer_tweet_id": 2590420,
+    "customer_message": "@user 2/2. The headphones did not have any damage except for the cheaply made hook piece. I sent it become the headphones could not turn on. You want to charge me for something that\u2019s not my fault. Without repair you sent back saying damaged.",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to help you and look into your experience more. DM us which country you're located in to begin: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_035",
+    "conversation_id": "1242291_1242292",
+    "customer_tweet_id": 1242291,
+    "customer_message": "How does my fully charged phone go to 26% in a matter of 3 hours @user @AppleSupport ?? #DoesNotCompute #FixItPlease",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We've got this. We know how vital the battery is & we can definitely help. Send us a DM including which iPhone model you have. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_036",
+    "conversation_id": "1504371_1504372",
+    "customer_tweet_id": 1504371,
+    "customer_message": "@AppleSupport Apple doesn't provide developers a way to refund in app purchases so you can either contact them and have the charges reversed Per them",
+    "gold_intent": "BATTERY_POWER_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're gong to want to get the iTunes Store experts involved here. Reach out to them direct: https://t.co/SDIe7UiyJN",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_037",
+    "conversation_id": "374215_374214",
+    "customer_tweet_id": 374215,
+    "customer_message": "Caught in an endless #2partverification loop with my @user tv, @AppleSupport https://t.co/idkrO4a2Kb",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Hey there! If you're having some trouble with your Apple TV, get in touch with the right team here: https://t.co/IBIY3vMgPj",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_038",
+    "conversation_id": "284943_284942",
+    "customer_tweet_id": 284943,
+    "customer_message": "@AppleSupport Excuse me but my cellular data isn\u2019t working & I still have plenty of gigabytes left. Restarting didn\u2019t work...",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're happy to help. DM us with the model iPhone and iOS version you have, and we'll go from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_039",
+    "conversation_id": "2263507_2263509",
+    "customer_tweet_id": 2263507,
+    "customer_message": "@AppleSupport Hey, thanks for the response! When I\ufe0f turn on my MBP it has a grey screen that either shows \ud83d\udeab or freezes up when I\ufe0f input my password",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user This symbol means that your Mac couldn't find a valid System Folder to start up from. Please take a look at the following article: https://t.co/KKHbRRkCpI",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_040",
+    "conversation_id": "1425132_1425134",
+    "customer_tweet_id": 1425132,
+    "customer_message": "@user @AppleSupport And it\u2019s been like this since I got the new phone! Tried restarting and nothing.",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Thanks for keeping us updated. What is the exact version of iOS you\u2019re using? Let us know via a DM. We\u2019ll go from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_041",
+    "conversation_id": "2727122_2727121",
+    "customer_tweet_id": 2727122,
+    "customer_message": "@user my phone to freeze and run slow.. funny how this happens every time a new phone comes out..",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We want to take a look at what's going on with your iPhone. Send us a DM; we'll meet up with you there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_042",
+    "conversation_id": "387608_387610",
+    "customer_tweet_id": 387608,
+    "customer_message": "@AppleSupport Yup on 11.0.2 but still restarting",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's continue to chat over in Direct Message so we can gather some further details. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_043",
+    "conversation_id": "2355054_2355052",
+    "customer_tweet_id": 2355054,
+    "customer_message": "@AppleSupport The display on the right side of my TouchBar appears to be broken. Touch works though. Anything I can try (reboot didn't work), or am I f-ed and do I need to get it repaired?",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's take a closer look together as the screen is important on all of our devices. Which device model do you have and which OS version is installed? Any other steps tried besides a restart?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_044",
+    "conversation_id": "1930526_1930525",
+    "customer_tweet_id": 1930526,
+    "customer_message": "@user could you like, fix the fact that everybody's phones are randomly restarting? It's seriously annoying and inconvenient.",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd be happy to look into this with you more in detail. Please reach out to us via DM and we'll get started. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_045",
+    "conversation_id": "2310924_2310923",
+    "customer_tweet_id": 2310924,
+    "customer_message": "@AppleSupport this appears to be stuck, what\u2019s going on? https://t.co/8bAjxRZJis",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We can take a look at this issue together. Send us a DM and let's get started. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_046",
+    "conversation_id": "2440686_2440685",
+    "customer_tweet_id": 2440686,
+    "customer_message": "My phone froze three times today and I had to restart it three times. Fix it @AppleSupport",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Were you using the same application or feature each time this happened? DM us back the iOS version being used to continue. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_047",
+    "conversation_id": "1270268_1270267",
+    "customer_tweet_id": 1270268,
+    "customer_message": "@AppleSupport after updating my device my phone become a shit pot it stuck everywhere...",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to help. DM us and tell us more about the issue you're having. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_048",
+    "conversation_id": "2279256_2279255",
+    "customer_tweet_id": 2279256,
+    "customer_message": "Hey @AppleSupport why is this happening and how can ai fix it?!?! Every time I restart or try to shut down my computer I get this black screen ... https://t.co/JqtcXQZipW",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd be happy to help out with that. Here are a few questions to help us get the ball rolling. When did this begin? Which model of Mac is this? Try the steps found here https://t.co/FYojVXHuwn and here https://t.co/sf0JEbUJVS Let us know the results in DM. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_049",
+    "conversation_id": "1538061_1538063",
+    "customer_tweet_id": 1538061,
+    "customer_message": "@AppleSupport The issue still there even after restarting",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Please send us a DM and we will go from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_050",
+    "conversation_id": "656289_656286",
+    "customer_tweet_id": 656289,
+    "customer_message": "@AppleSupport I\u2019ve done a restart, hard and soft.",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Thank you for reaching out. Let\u2019s work together and find out what\u2019s happening. To start, can you tell us which device and iOS you\u2019re using? You can find out by going to Settings > General > About. Also, if you open an app, does the top bar show?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_051",
+    "conversation_id": "542314_542313",
+    "customer_tweet_id": 542314,
+    "customer_message": "If anyone else is having a problem with your iPhone restarting every minute, I just set mine back to December 1st and it stopped resetting. #iphone #apple #iphone7 @user @AppleSupport",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're happy to provide more assistance. The steps here may also help: https://t.co/osZOKKTalm",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_052",
+    "conversation_id": "1957758_1957757",
+    "customer_tweet_id": 1957758,
+    "customer_message": "@AppleSupport I\u2019ve restarted the phone several times, I\u2019ve begun closing out the entire message app after sending every text, that is only way 2 work TY",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user That's a great start! Make sure your iOS is up-to-date in Settings > General > Software Update. If so, DM us which iPhone. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_053",
+    "conversation_id": "2691804_2691803",
+    "customer_tweet_id": 2691804,
+    "customer_message": "My phone has literally frozen about 5-6 times this morning, and takes a few minutes to reset.. I\u2019m about to lose my mind @user @AppleSupport",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We\u2019d like to understand more about what's happening. Please DM us some details, such as the exact version of iOS you're using, which apps or features are unresponsive, and which country you're in, and we\u2019ll take it from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_054",
+    "conversation_id": "2378006_2378005",
+    "customer_tweet_id": 2378006,
+    "customer_message": "My phone keeps@fucking restarting wtf @AppleSupport",
+    "gold_intent": "DEVICE_FREEZE_REBOOT",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's get your phone working great again. Check out https://t.co/osZOKKTalm for details and steps to help with this issue. Be sure to create a backup before beginning. DM us if you have additional questions. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_055",
+    "conversation_id": "258935_258934",
+    "customer_tweet_id": 258935,
+    "customer_message": "@AppleSupport I have an Apple ID, but when I try to setup two-Factor authentication, it shows +237 Cameroon but refuse all our 9-digit numbers.",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We definitely want to help you. Click here to reach out Apple ID experts: https://t.co/UJm15vmMM2",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_056",
+    "conversation_id": "1527639_1527641",
+    "customer_tweet_id": 1527639,
+    "customer_message": "@AppleSupport My macbook automatically connects to known public wifi hotspots but the pop-up sign in page rarely comes up so the wifi won\u2019t actually work?",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We can help you with this. Let's look at this together. Send us a DM. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_057",
+    "conversation_id": "1252439_1252438",
+    "customer_tweet_id": 1252439,
+    "customer_message": "@AppleSupport I just got a new MacBook Air and after going through the process of transferring files, I am unable to login to the computer with my password which I know I am typing correctly",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd be happy to look into this with you more in detail. Please reach out to us via DM and we'll get started. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_058",
+    "conversation_id": "2431257_2431256",
+    "customer_tweet_id": 2431257,
+    "customer_message": "@AppleSupport How many times the passcode should crash with iPhoneX? For me its atleast 20-35times!",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're here for you. Join us in DM. We'll pick up there: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_059",
+    "conversation_id": "287498_287500",
+    "customer_tweet_id": 287498,
+    "customer_message": "@AppleSupport Hi. There\u2019s frequently no clock/unlock info on the lock screen, as seen in left image. Not sure if it\u2019s hiding notifications too.",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Let's get to the bottom of this. Have you had a chance to update to iOS 11.0.2? If not, let's do that. DM us. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_060",
+    "conversation_id": "2508234_2508232",
+    "customer_tweet_id": 2508234,
+    "customer_message": "@user @AppleSupport FIX MY TEXTING I KEEP SEEING BLOCKS WITH QUESTION MARKS \ud83d\ude2a\ud83d\ude2a",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're happy to help. Which software version are you using? Also, are you seeing the issue when you send messages or when messages are sent to you?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_061",
+    "conversation_id": "1167831_1167829",
+    "customer_tweet_id": 1167831,
+    "customer_message": "@AppleSupport how come no music info will show up on my lock screen when I\u2019m playing music?Can\u2019t skip the song or anything.",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Let's work on this together. Which device and iOS version are affected? Does this happen consistently or is it intermittent?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_062",
+    "conversation_id": "2455375_2455374",
+    "customer_tweet_id": 2455375,
+    "customer_message": "@AppleSupport My phone keeps saying I\u2019m using the wrong password when signing into my WiFi, but I\u2019m not, I even copied and pasted the password. it\u2019s been like this for a few day now, what\u2019s wrong ?",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'll be happy to see if we can't get to the bottom of this. When did this start happening? Was it after an update of some sort? DM us and we'll continue there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_063",
+    "conversation_id": "2432849_2432848",
+    "customer_tweet_id": 2432849,
+    "customer_message": "Wow @user how is High Sierra this bad. My machine with 16gb of RAM is locking up randomly for 30+ seconds. Maybe the joke about being high during the keynote announcement was a little too accurate.",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We certainly want to help to get this resolved. Let's have you restart the computer and then see if that issue persists afterwards. If it does, reach out to us in DM and let us know what other steps you may have tried. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_064",
+    "conversation_id": "546540_546539",
+    "customer_tweet_id": 546540,
+    "customer_message": "So my clock wont work and phone keeps turning self on and off every 5-10mins.... any ideas? @user @AppleSupport #iPhone6s https://t.co/xh4PllFjYi",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want to help you with this issue. We recommend that you back up your device and follow the steps that we offer on our article here: https://t.co/osZOKKTalm This article will walk you through backing up your device: https://t.co/4f8hwT5to6",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_065",
+    "conversation_id": "260455_260453",
+    "customer_tweet_id": 260455,
+    "customer_message": "@AppleSupport all I want to do is setup my new iPhone 8! Why is does my password keep getting locked out! Can\u2019t access cloud or apps \ud83d\ude21\ud83d\ude21\ud83d\ude21",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd love to help. Please take a look at the following article: https://t.co/HH37uqVAaz",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_066",
+    "conversation_id": "1492221_1492223",
+    "customer_tweet_id": 1492221,
+    "customer_message": "@AppleSupport Thx. Also, have you been getting complaints about 8 cycling \u201coff\u201d and sending you to the lock screen, for no reason? It keeps happening",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Let's take a closer look at your issue. We received your DM and will respond there shortly.",
+    "reference_resolution_points": [
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_067",
+    "conversation_id": "2403728_2403727",
+    "customer_tweet_id": 2403728,
+    "customer_message": "Hey @AppleSupport, whenever I try to lock my phone screen it\u2019s doesn\u2019t work, I talked to your support yesterday and it didn\u2019t rectify my problem, send help pls",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd love to help. Could you Direct Message us and let us know what iOS version you're using? https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_068",
+    "conversation_id": "1128279_1128278",
+    "customer_tweet_id": 1128279,
+    "customer_message": "@AppleSupport my ID has been locked but I forgot my password what should I do?",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We know how important it is to access your Apple ID. Please try these steps and let us know the result: https://t.co/DYEXEbD7Im",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_069",
+    "conversation_id": "1666316_1666318",
+    "customer_tweet_id": 1666316,
+    "customer_message": "@AppleSupport Yes, it appears to be the same. I changed my payment information for my apple id a couple days ago, can that be the cause of this problem?",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user DM us using the link below and we'll look into this further with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_070",
+    "conversation_id": "2438209_2438207",
+    "customer_tweet_id": 2438209,
+    "customer_message": "@AppleSupport hi have an Apple desktop locked on opening screen have tried cmd R but can not get it to break help https://t.co/PMaIGk5bjf",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'll do everything we can to assist. Have you tried Internet Recovery (Command + Option + R)?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_071",
+    "conversation_id": "1360128_1360127",
+    "customer_tweet_id": 1360128,
+    "customer_message": "@AppleSupport the case I ordered for my iPhone X is being shipped to an address that doesn\u2019t exist in my Apple ID anymore! help!",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Make changes to your order here: https://t.co/jr7MZtpSNY or contact our Sales Support for help: https://t.co/8yjRd1Xo0i",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_072",
+    "conversation_id": "2402069_2402071",
+    "customer_tweet_id": 2402069,
+    "customer_message": "@AppleSupport Thanks for quick response. I had the id setup and tried unlocking phone n it failed about 7/10 times. I\u2019ve then tried deleting n adding and faced similar issues where the touch id was not fully responsive.",
+    "gold_intent": "ACCOUNT_APPLE_ID_SECURITY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want your Touch ID to work as expected. Use the information in the following link to see if this helps and let us know the results in a DM. https://t.co/xqiXha6yeB https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_073",
+    "conversation_id": "398848_398849",
+    "customer_tweet_id": 398848,
+    "customer_message": "@AppleSupport I back everything to my computer, not the cloud.",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Got it. For help with Photos on your iPhone from here, we'd recommend getting in touch with an Advisor: https://t.co/IBIY3vMgPj",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_074",
+    "conversation_id": "2605284_2605283",
+    "customer_tweet_id": 2605284,
+    "customer_message": "@AppleSupport Hey, I've been having storage problems. I've only used 1 GB of the 11 I have. Can you help?",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Hello. We\u2019ve received your DM, and we\u2019ll respond from there shortly. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_075",
+    "conversation_id": "2269999_2269997",
+    "customer_tweet_id": 2269999,
+    "customer_message": "@AppleSupport ever since I bought my iPhone X, my iMessages on my iPad are sent from my email and not phone number. How do I sync these back up? Thanks for your help!",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We can definitely assist. Go to Settings > messages and make sure that Text Message Forwarding is on and enabled for your iPad. Then on the iPad, go to the same place and set up the phone number as the primary sending source and that should do it.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_076",
+    "conversation_id": "2918838_2918837",
+    "customer_tweet_id": 2918838,
+    "customer_message": "@AppleSupport I am having trouble syncing my iPhone with my MacBook. I want to add a cd I imported from iTunes to my phone",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We want to make sure that you're able to sync your music. To confirm, you are using the steps here? https://t.co/biks8MpbiM If so, what happens when you try to sync?",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_077",
+    "conversation_id": "2856765_2856763",
+    "customer_tweet_id": 2856765,
+    "customer_message": "@AppleSupport is there any way to mark iCloud calendar events as private from iPhone?",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Great question! Currently, there isn't a way to do that from your iPhone. We welcome your feedback here: https://t.co/J46COPJzUo",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_078",
+    "conversation_id": "619474_619473",
+    "customer_tweet_id": 619474,
+    "customer_message": "@AppleSupport i clicked on the sign out button. Now the photos are neither on my phone nor on my icloud. https://t.co/uzM3iZ4RyD",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's have a look at this together. Can you please DM us? https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_079",
+    "conversation_id": "1078278_1078277",
+    "customer_tweet_id": 1078278,
+    "customer_message": "@AppleSupport I\u2019ve just got a new iPhone7 and not all of my music is syncing via iTunes. Any ideas? Thanks",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd be happy to help. Here's a link that may be useful: https://t.co/048FvsiWf8",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_080",
+    "conversation_id": "1512142_1512141",
+    "customer_tweet_id": 1512142,
+    "customer_message": "@AppleSupport having some trouble with iPad and iPhone photo syncing. Normally works but I hasn\u2019t for the past few days ... any advice ?",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Hi Jordan, we'd be happy to look into this together. Are both devices signed in with the same Apple ID?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_081",
+    "conversation_id": "644128_644127",
+    "customer_tweet_id": 644128,
+    "customer_message": "@user is there any problem with your platform? I cannot listen any song from your library in the cloud! @user",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We\u2019re investigating and will update our System Status page as more info becomes available: https://t.co/7NVrDovSd8",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_082",
+    "conversation_id": "193684_193683",
+    "customer_tweet_id": 193684,
+    "customer_message": "hey @AppleSupport could you explain why 3,000 of my photos on my phone were just randomly deleted thanks",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're here to help! We have received your DM and will be responding there momentarily.",
+    "reference_resolution_points": [
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_083",
+    "conversation_id": "1645460_1645457",
+    "customer_tweet_id": 1645460,
+    "customer_message": "Cont. @AppleSupport turning on and off restore iCloud backup. Nothing is working. Please help!",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We know how important it is to be able to complete a backup and we're happy to help. Do you receive any type of error message?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_084",
+    "conversation_id": "1543331_1543330",
+    "customer_tweet_id": 1543331,
+    "customer_message": ".@AppleSupport @user @user I want to determine this myself \ud83d\ude12. I want to enjoy Photos yet limit it to the minimum on my Macbook. https://t.co/VgOPRtANaG",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user To have your voice heard about changes for macOS, leave your suggestions here: https://t.co/eTPVYVFyd8",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_085",
+    "conversation_id": "1151852_1151850",
+    "customer_tweet_id": 1151852,
+    "customer_message": "@AppleSupport I keep getting the icloud music cannot be enabled , message on my iphone. I have apple music and have just tried a reset.",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's get you to the right spot for help. Reach out to our iTunes Store team. They'll work with you: https://t.co/SDIe7UiyJN",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "easy",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_086",
+    "conversation_id": "2909306_2909305",
+    "customer_tweet_id": 2909306,
+    "customer_message": "@user I need help working in photoshop and this happened been waiting for an hour i cant loose the work please save me. https://t.co/t0zEdTmdr4",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Are you able to use any other functions on the Mac? Let us know in Direct Message and we'll take a look. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_087",
+    "conversation_id": "1285632_1285630",
+    "customer_tweet_id": 1285632,
+    "customer_message": "@AppleSupport hi, I can\u2019t sync videos from Photos to the iPhone, it copies de album but not the videos, can you help me out?",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd love to help out with your sync. Can you let us know the iOS version and macOS version you have installed?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_088",
+    "conversation_id": "84247_84246",
+    "customer_tweet_id": 84247,
+    "customer_message": "@AppleSupport Team, Photos app is acting weird. All pictures are jumbled in the Album folder & it\u2019s not setting right. Also, Below screenshot is from Photos and this happened all a sudden & I haven\u2019t done anything. https://t.co/CYMkRvWyL7",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Hey there! We know how important photos are, so we're more than happy to help and recommend reaching out to our Photos team directly so they can help you figure out what's going on. Click here to get started: https://t.co/IBIY3vMgPj",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_089",
+    "conversation_id": "2725961_2725960",
+    "customer_tweet_id": 2725961,
+    "customer_message": "Btw @AppleSupport I got all my photos, Thank You\ud83d\ude0a\ud83d\ude18\ud83d\ude18 https://t.co/Myx2luJ3qq",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user You're quite welcome!",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_090",
+    "conversation_id": "954210_954213",
+    "customer_tweet_id": 954210,
+    "customer_message": "@AppleSupport This is specifically an issue with my Ford with Sync if that helps",
+    "gold_intent": "ICLOUD_STORAGE_SYNC",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Thank you. To confirm, have you contacted your car company to make sure an update isn't needed for compatibility?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_091",
+    "conversation_id": "58176_58178",
+    "customer_tweet_id": 58176,
+    "customer_message": "@AppleSupport I couldn\u2019t access App Store neither iPhone nor Mac. But everything restored few mins ago. Thank you.",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're happy to hear that. If anything comes up in the future, we're here to help.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_092",
+    "conversation_id": "1635745_1635744",
+    "customer_tweet_id": 1635745,
+    "customer_message": "@AppleSupport is this legit as I didn\u2019t purchase this https://t.co/anzV6sLbkV",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd be happy to look into this with you. Send us a DM and we'll continue there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_093",
+    "conversation_id": "1698392_1698391",
+    "customer_tweet_id": 1698392,
+    "customer_message": "@AppleSupport Screencap is from the App Store. It\u2019s not about the apps. The OS is filled with bugs. Some auto correct balloons even appear under keybd.",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd like to help! Let's dig deeper. Send us a DM with the country that you are located in to proceed. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_094",
+    "conversation_id": "1420712_1420711",
+    "customer_tweet_id": 1420712,
+    "customer_message": "@AppleSupport I have a purchase that isn\u2019t showing up in my library and it\u2019s not hidden. It\u2019s telling me I need to buy again",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd like to look into this with you. For security reasons, reach out to us here: https://t.co/SDIe7UiyJN",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_095",
+    "conversation_id": "1576377_1576380",
+    "customer_tweet_id": 1576377,
+    "customer_message": "@AppleSupport Last text I promise!! :-) what it comes down to is I physically cannot purchase the variant I want, due to arbitrary restrictions. Very poor",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We understand your concerns. We'd recommend providing feedback here: https://t.co/eTPVYVFyd8",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_096",
+    "conversation_id": "1338832_1338830",
+    "customer_tweet_id": 1338832,
+    "customer_message": "@AppleSupport @user Since July I have paid >double for my account and it has never been sorted. I need this refunded. Thanks.",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Hey, to clarify, are you referring to an iTunes payment? Let us know and we'll get you to the right spot.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_097",
+    "conversation_id": "2949575_2949573",
+    "customer_tweet_id": 2949575,
+    "customer_message": "@AppleSupport hello, I've received an email which I think is spam, do you have a department that deals with phishing emails? I can't see any details in my Apple account relating to the subscription I've apparently taken out - I've not clicked anything in the email.",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thanks for reaching out. For help identifying and reporting a phishing email, check out the following link: https://t.co/LNMCdqt6fD Please DM us if this does not help: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_098",
+    "conversation_id": "1283968_1283967",
+    "customer_tweet_id": 1283968,
+    "customer_message": "I\u2019ve recently paid my @user subscription and it\u2019s asking me to renew my membership may I have some @AppleSupport ?",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We\u2019re investigating the issue and will update our System Status page when info becomes available: https://t.co/7NVrDovSd8",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_099",
+    "conversation_id": "741009_741008",
+    "customer_tweet_id": 741009,
+    "customer_message": "@user @AppleSupport @user @user @user And after I close window from screenshot, new ones pops up with message \"There was an error in the App Store. Please try again later. (,)\".",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thanks for getting in touch. We'd like to assist. DM us and we'll go from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_100",
+    "conversation_id": "2364497_2364495",
+    "customer_tweet_id": 2364497,
+    "customer_message": "Hey @user you make it pretty hard to find and cancel subscriptions bought through the App Store. Why don\u2019t you just make it easier? You wouldn\u2019t risk any of us moving to android, would you??? https://t.co/bF9msQyIvJ",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We can help make that a little easier. Everything you always wanted to know about managing subscriptions can be found here: https://t.co/bOr0wYMLXU",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_101",
+    "conversation_id": "552084_552083",
+    "customer_tweet_id": 552084,
+    "customer_message": "@AppleSupport how do I enable Apple Pay cash?",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thanks for reaching out about Apple Pay Cash. Please check our https://t.co/DtZT7rYVIs, for details regarding technical specification and set up. Still have questions? Let us know in DM. We're happy to help. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_102",
+    "conversation_id": "2385162_2385161",
+    "customer_tweet_id": 2385162,
+    "customer_message": "@AppleSupport my Apple Music isn\u2019t working and no my subscription hasn\u2019t expired",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want to help you get back to your playlist. In what way is it not working? Is it frozen? Does it skip moments? Can you not log in? Let us know.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_103",
+    "conversation_id": "1857988_1857987",
+    "customer_tweet_id": 1857988,
+    "customer_message": "@AppleSupport I wanted to justify my iWatch purchase, only concern was the screen, apple sales person said he had never seen a cracked one! https://t.co/pp55yO1mLs",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We can assist with any concerns you have with your Apple Watch. Tell us in DM when you first noticed this on your screen. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_104",
+    "conversation_id": "1013808_1013807",
+    "customer_tweet_id": 1013808,
+    "customer_message": "@AppleSupport do you have a warranty on replacements? This replacement is about 3 months old and already broken. Original purchased 08/2016 https://t.co/JItDcYIGrb",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd be happy to help. Send us a DM so we can gather a few more pieces of information to look into this.",
+    "reference_resolution_points": [
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_105",
+    "conversation_id": "462039_462038",
+    "customer_tweet_id": 462039,
+    "customer_message": "@user @AppleSupport how long does it take to get my activation code for logic, Final cut etc. after purchase?",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd love to get you on track with our applications. We do need to know a bit more to help. While Final Cut and Logic have cost and may require a code, many other of our applications come pre-installed. Send us a DM. We'll get to the bottom of this. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_106",
+    "conversation_id": "2422519_2422520",
+    "customer_tweet_id": 2422519,
+    "customer_message": "@AppleSupport Thanks, that worked. Oddly enough the purchase history button is now showing up in settings on my iPhone after logging into that site. \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user That's great news! Reach out to us here if you ever need assistance.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_107",
+    "conversation_id": "1064952_1064951",
+    "customer_tweet_id": 1064952,
+    "customer_message": "@user can u cancel my apple music subscription bc I can't get in my iPhone and my parents are gonna kill me \ud83d\ude43",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We can help with that. You'll find more info on managing your subscriptions here: https://t.co/YKDbvueXrq.",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_108",
+    "conversation_id": "487926_487924",
+    "customer_tweet_id": 487926,
+    "customer_message": "@AppleSupport My iPhone 7 is genuinely slowing compared to my friends. I have a 128GB model and there isn't one scratch but my iPhone has crashed several times since purchase, music stops playing and touch id underperforms. Cant believe my hard earned money has gone to waste",
+    "gold_intent": "BILLING_APP_STORE_SUBSCRIPTION",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want your iPhone 7 to work properly so you can continue to use it. When did you start to notice these issues? Which iOS version is your iPhone using in Settings > General > About?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_109",
+    "conversation_id": "891118_891117",
+    "customer_tweet_id": 891118,
+    "customer_message": "@user We need a chat - HUGE complaint to make about your staff in store- attitude, manners and TERRIBLE customer service. Get in touch",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'll happily help look into this. Reach out to us in DM & tell us more about what's going on. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_110",
+    "conversation_id": "487929_487928",
+    "customer_tweet_id": 487929,
+    "customer_message": "Yo Apple, I would really appreciate it if y\u2019all could find out what\u2019s wrong with the Bluetooth connection because I\u2019m trying to workout and my Wireless Beats lose the connection every few seconds. @AppleSupport",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd love to help with this! Is your iPhone up to date? Are your Beats up to date? If you restart both devices, does that help? Is your iPhone able to connect to other Bluetooth devices? Let us know in DM and we'll get started. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_111",
+    "conversation_id": "2035102_2035100",
+    "customer_tweet_id": 2035102,
+    "customer_message": "Worst #customerservice ever @applesupport - Up to 4th Senior Advisor - no follow up, no call back, no resolution, now a hangup @user",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We always want the best support experience for our customers. Could you Direct Message us so we can get more information? https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_112",
+    "conversation_id": "2702103_2702102",
+    "customer_tweet_id": 2702103,
+    "customer_message": "@AppleSupport 6s and IPad Air. I had to reset both to gain a connection. \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f Why?",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Did this occur when attempting to pair a new Bluetooth device? Which device or devices were you attempting to connect with your iPhone and iPad? Was it not showing when searching for devices until after the restart? Are you connected now?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_113",
+    "conversation_id": "1923161_1923162",
+    "customer_tweet_id": 1923161,
+    "customer_message": "@AppleSupport I already know that. I want to turn off the WiFi (not disconnect from the red) in the control center. Can I?",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user If you want to disconnect Wi-Fi completely, you'll want to navigate to Settings > Wi-Fi > disable Wi-Fi.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_114",
+    "conversation_id": "1782805_1782804",
+    "customer_tweet_id": 1782805,
+    "customer_message": "@user @AppleSupport why is my iPad air no longer connecting to my Wi-Fi? My Wi-Fi is on and nothing has changed. Just won\u2019t connect.",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We can help you get your iPad connected. Try restarting your device, and DM us if this persists: https://t.co/OWRDHWSt4h https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_115",
+    "conversation_id": "2889421_2889420",
+    "customer_tweet_id": 2889421,
+    "customer_message": "@AppleSupport Please help as I am not receiving any kind of help from the service station and online executives. Requesting you to get in touch as soon as possible.",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We are here to help. Reach out to us in DM and tell us what is happening. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_116",
+    "conversation_id": "105378_105377",
+    "customer_tweet_id": 105378,
+    "customer_message": "@AppleSupport So like I said from the start you can\u2019t turn it off fully from the control centre. \u201cIf you want to completely disable Wi-Fi and Bluetooth for all networks and devices, follow these steps: To turn off Wi-Fi, go to Settings > Wi-Fi and turn off Wi-Fi.\u201d",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user That's correct. We just wanted to make sure that we let you know. Go ahead and DM us which iPhone and iOS version you're using and we'll continue there. You can find the version by going to Settings > General > About > Version. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_117",
+    "conversation_id": "1557111_1557110",
+    "customer_tweet_id": 1557111,
+    "customer_message": "@AppleSupport Yes.. working simcard in and connected to WiFi. https://t.co/nu7jNoFhcQ",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's look into that further. Send us a DM and we'll go from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_118",
+    "conversation_id": "785763_785762",
+    "customer_tweet_id": 785763,
+    "customer_message": "@user why isnt the podcast app working on bluetooth",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's see how we can help. Are you trying to listen to podcasts while connected to a Bluetooth headset or speaker?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_119",
+    "conversation_id": "37672_37674",
+    "customer_tweet_id": 37672,
+    "customer_message": "@AppleSupport i have never tried on Mobile data. the problem does persist on all Wi-Fi networks (open and private) that my iphone 5s has connected to, the music app would crash and close soon after i open it.",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Got it. Let's try opening the Music app while only being connected to mobile data. Keep us posted.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_120",
+    "conversation_id": "1752028_1752026",
+    "customer_tweet_id": 1752028,
+    "customer_message": "@AppleSupport My iphone6 has (compared to other devices using the same wifi) a very slow connection. Is this an in-/external prob of my iph?",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's work together to figure it out. To get started, do you notice the same issue on all Wi-Fi connections or just home Wi-Fi?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_121",
+    "conversation_id": "2495497_2495495",
+    "customer_tweet_id": 2495497,
+    "customer_message": "Put my #Macbook in for repair and it came worse. Everything @AppleSupport does these days is GARBAGE. Cancelling my iPhoneX preorder.",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Thanks for reaching out. We're here to help. DM us so we can look into this further with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_122",
+    "conversation_id": "2565748_2565749",
+    "customer_tweet_id": 2565748,
+    "customer_message": "@AppleSupport Also, I cannot run apps that require data outside of WiFi, tells me there\u2019s an error. I have checked and allow the apps to use cellular data but it hasn\u2019t done anything",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Thanks for letting us know. Go ahead and send us a DM and we'll look into this further with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_123",
+    "conversation_id": "2867278_2867277",
+    "customer_tweet_id": 2867278,
+    "customer_message": "@AppleSupport Thank you! Didn\u2019t know it was moved. What anoint he WiFi turning on automatically?",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user If you're using Control Center to manage your connections, it has been revamped. You can review more about the new Control Center controls for Wi-Fi and Bluetooth here: https://t.co/G7BHuQnDS6",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_124",
+    "conversation_id": "387587_387585",
+    "customer_tweet_id": 387587,
+    "customer_message": "Can someone at @AppleSupport explain why this WiFi/Bluetooth glitch is still happening almost 3 weeks later?! So amateur \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We\u2019ve changed the way Control Center works. You can learn more here: https://t.co/vodH4madjc",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_125",
+    "conversation_id": "1598097_1598096",
+    "customer_tweet_id": 1598097,
+    "customer_message": "I pre-ordered my mom the iPhone X, we got it and it doesn't turn on at all. Not @user or @user can help. Wow amazing customer service \ud83d\ude44",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd be happy to look into it with you! Send us a DM to get started. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_126",
+    "conversation_id": "1940840_1940839",
+    "customer_tweet_id": 1940840,
+    "customer_message": "@AppleSupport It just keeps dropping connection like every few minutes, same thing happens on different networks",
+    "gold_intent": "CONNECTIVITY_NETWORK_BLUETOOTH",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Great thinking on the other networks. Which iOS version is installed? You'll find that in Settings > General > About.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_127",
+    "conversation_id": "2747259_2747258",
+    "customer_tweet_id": 2747259,
+    "customer_message": "@AppleSupport This has been on this screen for over 30 minutes and I am trying really hard not to flip out right now. Please helpppp! https://t.co/a5IjqgaD0d",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're here for you, and will do what we can to help. Let's go ahead and power off the phone and turn in back on, and try again. Let us know the results.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_128",
+    "conversation_id": "1100868_1100867",
+    "customer_tweet_id": 1100868,
+    "customer_message": "@AppleSupport My new iPhone X keeps turning itself on silent at random times on the screen but nothing is interfering with the button?",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Congratulations on your new iPhone X. We want your new phone to function correctly. Please meet us in DM and we'll take a closer look at this together. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_129",
+    "conversation_id": "2314387_2314386",
+    "customer_tweet_id": 2314387,
+    "customer_message": "The issue where the screen on the iPhone X becomes unresponsive is not only happening in cold weather. Having issues in 75\u00b0 weather as well. @AppleSupport",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want to help. We know how important it is to have your phone run smoothly. What version of iOS is on this device? Go to Settings > General > About to get that information. Have you tried restarting? DM us here: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_130",
+    "conversation_id": "2776063_2776062",
+    "customer_tweet_id": 2776063,
+    "customer_message": "This #bluescreenofdeath on the @user #MacBookPro is starting to really piss me off! https://t.co/kcmHDK5XNl",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're here for you. Click here to meet us in DM and provide us with the software version that is currently running on your computer. We'll take it from there: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_131",
+    "conversation_id": "1640299_1640298",
+    "customer_tweet_id": 1640299,
+    "customer_message": "@AppleSupport the screen came loose of my Apple Watch 1. It\u2019s just over two years. It hasn\u2019t bumped into anything.. what next?",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thanks for reaching out. DM the country or region where you are currently located to get started. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_132",
+    "conversation_id": "1153807_1153809",
+    "customer_tweet_id": 1153807,
+    "customer_message": "@AppleSupport I have now, thanks for the help its all sound now",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Glad to hear it and it's our pleasure. If there's anything you need in the future, reach out. We'll be happy to help.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_133",
+    "conversation_id": "2945678_2945680",
+    "customer_tweet_id": 2945678,
+    "customer_message": "@AppleSupport heres some screenshot #s https://t.co/0hxPQIFZhg",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Got it, you're trying to change a payment you have stored to your Apple ID account. Here's the instructions for that: https://t.co/Y0YoIRcZa7 Let us know if that helps.",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_134",
+    "conversation_id": "1977174_1977173",
+    "customer_tweet_id": 1977174,
+    "customer_message": "hello @AppleSupport my mac is making this sound and I don't know what it means https://t.co/GFf2eSnKc0",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're happy to help. When did this problem start? Which type of Mac do you have? Let's meet in DM to gather additional details. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_135",
+    "conversation_id": "2279966_2279964",
+    "customer_tweet_id": 2279966,
+    "customer_message": "@AppleSupport are u guys gonna fix this iPhone X issue where the display not responding in cold temps? It's 37 degrees in nyc and I can't type on my phone wtf?",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Can you join us in DM? We'd like to help out. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_136",
+    "conversation_id": "92639_105318",
+    "customer_tweet_id": 92639,
+    "customer_message": "@user @AppleSupport Dude I\u2019m having issues with my alarms not going off either. They\u2019re all \u201calerting\u201d me but no sound or vibrate",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We\u2019d love to help with your alarms. To start, which device and iOS version are you using? You can tap Settings > General > About to locate the iOS version.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_137",
+    "conversation_id": "1003824_1003826",
+    "customer_tweet_id": 1003824,
+    "customer_message": "@AppleSupport Im using 11.0.3. Sometimes audio doesn\u2019t play. It plays after r starting or after sometime",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We appreciate the details. Does this happen on speaker and with headphones? Also, try these steps: https://t.co/4Kux8rhhGX https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_138",
+    "conversation_id": "322646_322648",
+    "customer_tweet_id": 322646,
+    "customer_message": "@AppleSupport As I click the mailboxes it shows home screen instead of mails. Thank you for your reply.",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Is the Mail app closing when you click on mailboxes?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_139",
+    "conversation_id": "872501_885752",
+    "customer_tweet_id": 872501,
+    "customer_message": "@AppleSupport Yeah it\u2019s in a bag, a pocket, my hand throughout the day but how does that explain it happening to everyone else I know? Sounds like a big",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Are you using the Control Center to disable Wi-Fi, or going to the Settings? Let us know in DM. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_140",
+    "conversation_id": "161221_161219",
+    "customer_tweet_id": 161221,
+    "customer_message": "@AppleSupport I know, it makes me sad. Nope, other sounds are fine. Just seems to be calls and texts (WhatsApp).. it\u2019s very ad hoc!",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Don't be sad, we're here to help you. Let's take a look at the App Store, do you have any updates listed for WhatsApp?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_141",
+    "conversation_id": "1765883_1765882",
+    "customer_tweet_id": 1765883,
+    "customer_message": "HI @AppleSupport please can you fix my phone cos my screenshots aren\u2019t saving and my apps keep closing themselves, thanks ttyl xox",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thank you for reaching out to us. We're here to help. To start, what device model and iOS version are you using?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_142",
+    "conversation_id": "2889516_2889517",
+    "customer_tweet_id": 2889516,
+    "customer_message": "@AppleSupport I did a settings reset on my phone which did not work.Also,closing the app from the app switching screen does not resolve the issue. I have been trying to isolate the cause which might be doing this but so far have failed to figure anything out.It seems to pop up randomly so far.",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Okay, got it! Do you happen to notice if this occurs after using a particular app? Let us know via DM so we can take a deeper look. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_143",
+    "conversation_id": "1590514_1590513",
+    "customer_tweet_id": 1590514,
+    "customer_message": "@user are you kidding me speakers don\u2019t work and phone calls don\u2019t work disappointed",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Have you updated the iPhone to iOS 11.1 yet? https://t.co/80YRnjDFDk Send us a DM and let us know. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_144",
+    "conversation_id": "2594452_2594451",
+    "customer_tweet_id": 2594452,
+    "customer_message": "@user @AppleSupport I can no longer count on my touch screen working. So it\u2019s basically like not having a phone at all.",
+    "gold_intent": "HARDWARE_DISPLAY_AUDIO",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're happy to assist. Which iOS version are you currently running? Go to Settings > General > About for the version.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_145",
+    "conversation_id": "1234745_1234746",
+    "customer_tweet_id": 1234745,
+    "customer_message": "@AppleSupport Made me restore my atv. In the middle of the restore they hung up on me lol",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user That\u2019s not the experience we want for you. We\u2019d be happy to look into more available options. DM us to start. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_146",
+    "conversation_id": "2741902_2741901",
+    "customer_tweet_id": 2741902,
+    "customer_message": "@user I need help! Having problems in store getting my new Smart Keyboard. Caretaker drove me here- instructions were unclear #ADA",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd like to help if we can. Send us a DM with some details about what's going on and we'll look into this further. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_147",
+    "conversation_id": "2449532_2449530",
+    "customer_tweet_id": 2449532,
+    "customer_message": "@AppleSupport this shit happen as soon as my warranty is over !!! smh",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd like to help you be sure your iPhone is working normally. Send us a DM with more details on what is happening exactly. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_148",
+    "conversation_id": "1125373_1125372",
+    "customer_tweet_id": 1125373,
+    "customer_message": "@AppleSupport getting this on my iPhone had chat with AppleCare but they\u2019re running system maintenance so can\u2019t help. Is this phishing? https://t.co/uOnKRVN6b4",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Great looking out! It does appear to be a Phishing attempt. See this link for more information: https://t.co/LNMCdqt6fD",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_149",
+    "conversation_id": "2736383_2736385",
+    "customer_tweet_id": 2736383,
+    "customer_message": "@AppleSupport I ordered it from the Apple Online Store. I\u2019ve been diligently tracking it for days and now the UPS site says it was deceived but it wasn\u2019t!",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thanks for clarifying. We certainly understand the importance of knowing the whereabouts of your new iPhone. No worries, we have a dedicated team who can investigate and assist further. Reach our Sales Support team at the 800 number found here: https://t.co/8yjRd1Xo0i",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_150",
+    "conversation_id": "2068614_2068613",
+    "customer_tweet_id": 2068614,
+    "customer_message": "@AppleSupport I'm very disappointed how my wife was treated by someone in your #Apple store in #Cardiff. Couldn't bother to help my wife.",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user That's not the experience we want you to have when visiting an Apple Store. DM us with details, and we'll see how we can help. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_151",
+    "conversation_id": "2619_2621",
+    "customer_tweet_id": 2619,
+    "customer_message": "@AppleSupport But this does not show the music stored on my phone like it did in os3. I do not want to store music on my phone.",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We certainly want to take a closer look into this issue. Select the following link to join us in a DM and we'll go from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_152",
+    "conversation_id": "1206087_1206086",
+    "customer_tweet_id": 1206087,
+    "customer_message": "@AppleSupport Why is it so difficult to make a Genius Bar appointment online? Very user unfriendly.",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd love to help you with this. Meet us in DM and we'll get this set up with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_153",
+    "conversation_id": "2892021_2892019",
+    "customer_tweet_id": 2892021,
+    "customer_message": "@AppleSupport Yesterday I opened iTunes and all my music and playlists were gone. Not sure why. How can I restore?",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We's love to look into this with you. Which device did this happen on and was it through iTunes only or Apple Music?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_154",
+    "conversation_id": "1679980_1679978",
+    "customer_tweet_id": 1679980,
+    "customer_message": "@user @AppleSupport when is the I\ufe0f replacement bug going to get fixed? It\u2019s plaguing iPhone users everywhere!",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Reach out to us via DM, then we can advise you on this from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_155",
+    "conversation_id": "361452_361450",
+    "customer_tweet_id": 361452,
+    "customer_message": "When is the #iWatch3 38mm Space Grey gonna be available in #Dubai stores?? It's all sold out & not one piece is available! \ud83d\ude1f @AppleSupport",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'll get you to the right place to get some help. Contact our team at the Apple Online Store here: https://t.co/8yjRd1Xo0i",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_156",
+    "conversation_id": "2572061_2572060",
+    "customer_tweet_id": 2572061,
+    "customer_message": "@AppleSupport I have an IPhone with applecare+. How it\u2019s work when I give it for reparation in an apple Premium reseller?",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We've got your DM and will continue working there to address your questions.",
+    "reference_resolution_points": [
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_157",
+    "conversation_id": "2961410_2961409",
+    "customer_tweet_id": 2961410,
+    "customer_message": "I\u2019d like to know why my ONE WEEK OLD insurance replacement iPhone 6S Plus doesn\u2019t work properly... @AppleSupport @user",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're here for you and happy to help. Can you tell us what's happening specifically?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_158",
+    "conversation_id": "1850169_1850168",
+    "customer_tweet_id": 1850169,
+    "customer_message": "@AppleSupport @user 4 day wait for an appt at Apple store, 30 minute wait in store only to be told I should have called Apple Support",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We\u2019d like to understand more about this situation. Please DM us some details and we\u2019ll take it from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_159",
+    "conversation_id": "2454614_2454613",
+    "customer_tweet_id": 2454614,
+    "customer_message": "can\u2019t believe i have to restore my phone because it\u2019s been freezing all day and the apps aren\u2019t working as expected ...fix it @user",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thanks for reaching out. We're here to help. DM us so we can look into this further with you. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_160",
+    "conversation_id": "1163808_1163807",
+    "customer_tweet_id": 1163808,
+    "customer_message": "@AppleSupport the paint is chipping off my matte iPhone 7? I went to the Apple Store a while back to ask and they didn't get back to me?",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd like to check into this with you. DM us, and we'll see how we can help! https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_161",
+    "conversation_id": "2132153_2132152",
+    "customer_tweet_id": 2132153,
+    "customer_message": "Hey @AppleSupport your stupid text replacement work around no longer works (when it turns uppercase the problem returns) so now i have to type lowercase i\u2019s and I\u2019m really pissed off about it. So unprofessional. FIX IT. #apple #wtf",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd like to look into this further with you. Could you please send us a DM so we can continue? https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_162",
+    "conversation_id": "1593910_1593909",
+    "customer_tweet_id": 1593910,
+    "customer_message": "@user First iPad breaks in 6 months, replacement breaks in 24 hours. My degree assignment will now be two weeks late, can\u2019t access work!!",
+    "gold_intent": "HARDWARE_REPAIR_SERVICE_INQUIRY",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're here to help you. DM us and tell us more about what's happening with your iPad. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_163",
+    "conversation_id": "2753647_2753646",
+    "customer_tweet_id": 2753647,
+    "customer_message": "Hey @user it's not nice to deactivate my old phone when you can't figure out how to fix the issue with activating my new one and keep redirecting me to @AppleSupport. Now I have 2 useless phones and none that work",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd love to look into this concern and make sure your Apple device is working as expected. If you have already spoken to your carrier, this is always a good start. What is the device model?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_164",
+    "conversation_id": "2555470_2555472",
+    "customer_tweet_id": 2555470,
+    "customer_message": "@AppleSupport Thanks for the help @AppleSupport ! I have looked into these tips in the past and just scanned through them again. I also turn most notifications off/often have do not disturb on! Not sure if it\u2019s just the life of the phone coming to an end or if it\u2019s worth resetting",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Perfect, thanks for looking into those steps. We want to see if there's anything else that can be done to assist with the battery life on the device. Please meet us in DM so we can gather information and better assist. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_165",
+    "conversation_id": "2647134_2647136",
+    "customer_tweet_id": 2647134,
+    "customer_message": "@AppleSupport That's not true, smart covers and cases have ever worked by magnets on the right side of the iPad, and if you did not want this to work that way, you could always deactivate it in settings. That setting doesn't appear on my ipad, however when you search for it, appears on results https://t.co/zM1gC13iUr",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to look into this further with you. Join us in DM and we'll look into this further from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_166",
+    "conversation_id": "2093682_2093681",
+    "customer_tweet_id": 2093682,
+    "customer_message": "@AppleSupport How do I fix this? https://t.co/agQFiWUWc2",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're here to help. Take a look at this article and DM us if you need more help. https://t.co/6t5J4rmrmI https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_167",
+    "conversation_id": "1175564_1175563",
+    "customer_tweet_id": 1175564,
+    "customer_message": "@AppleSupport Help. I\u2019ve ported my old no to new network but device is still showing temp number. How do I change it please??",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We're happy to do everything we can to help. To start, DM us with the device model you're using and country where you're located. https://t.co/GDrqU2kzhr",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_168",
+    "conversation_id": "1967610_1967609",
+    "customer_tweet_id": 1967610,
+    "customer_message": "Ok. Seriously. Fix this keyboard glitch. Resetting doesn\u2019t work. @AppleSupport",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Let's take a look. Which device are you experiencing this with? Also, which iOS version is installed? Let us know more in DM. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_169",
+    "conversation_id": "2468875_2468874",
+    "customer_tweet_id": 2468875,
+    "customer_message": "I\u2019ve tried everything. How do I remedy this- I\ufe0ft ? @AppleSupport https://t.co/s9h36Gv7gF",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_170",
+    "conversation_id": "2253442_2253441",
+    "customer_tweet_id": 2253442,
+    "customer_message": "@AppleSupport How do I\ufe0f get rid of this? It\u2019s seriously the first thing that made me think of switching to android. https://t.co/OyVPGBgE6k",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user iOS 11.1.1 was recently released and it includes a fix for autocorrect issues. Be sure to back up your device prior to updating, and let us know if the issue persists afterwards. How to back up: https://t.co/4f8hwT5to6",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_171",
+    "conversation_id": "798843_798844",
+    "customer_tweet_id": 798843,
+    "customer_message": "Hi @AppleSupport this link didn't help me in any way. I asked for how to attach epub files not pdf. Pls send me the right link. Thank you.",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user The steps should be the same. Go ahead & reach out to us in DM if you're still having trouble. We'll work together there. https://t.co/GDrqU2kzhr",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_172",
+    "conversation_id": "2075387_2075385",
+    "customer_tweet_id": 2075387,
+    "customer_message": "How to use multiple windows on iPhone 7 plus to do two things side by side @AppleSupport",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Great question. That feature is only available on an iPad. You can still switch apps on an iPhone: https://t.co/w2fdi1mcZF",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_173",
+    "conversation_id": "2628992_2628991",
+    "customer_tweet_id": 2628992,
+    "customer_message": ".@user - why have you ruined the play/pause button on my Mac with #HighSierra ? I can't pause music so as to hear online content anymore... Made a simple feature awful.",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to help. Can you describe in more detail what you're experiencing when you try to play and pause content between apps?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_174",
+    "conversation_id": "1900054_1900053",
+    "customer_tweet_id": 1900054,
+    "customer_message": "@AppleSupport h\u01a1 to contact you for AppleID features?",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user To submit feature requests and feedback, please visit us here: https://t.co/eTPVYVFyd8",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_175",
+    "conversation_id": "556205_556207",
+    "customer_tweet_id": 556205,
+    "customer_message": "@AppleSupport If predictive is off in my keyboard setting, messages overlaps when we try to switch to emoji keyboard. In the attached video, you can see, if i try to bring up emoji keyboard, the messages which i sent earlier are not moving up, instead they are overlapping(See the read receipt) https://t.co/tEWhinzlzU",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We want that to work as expected. Please reach out to our phone or chat support to continue working on this issue here: https://t.co/IBIY3vMgPj",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_176",
+    "conversation_id": "1336312_1336311",
+    "customer_tweet_id": 1336312,
+    "customer_message": "@AppleSupport I made a mistake and I ordered twice. how to cancel the first order",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Oops! We understand, things happen. Reach out to our Sales team and we'll sort it out: https://t.co/l9vC3IRh4z",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_177",
+    "conversation_id": "1498660_1498659",
+    "customer_tweet_id": 1498660,
+    "customer_message": "This \u201cI\ufe0f\u201d shut is ugly how do I\ufe0f fix it? @user",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We want to take a look at this with you. Meet us over in DM, and we\u2019ll get started there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_178",
+    "conversation_id": "2558683_2558682",
+    "customer_tweet_id": 2558683,
+    "customer_message": "Hi @user can you incorporate a feature that allows you to ignore calls whiles enabling you to work on your phone at the same time? This feature is long overdue",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We appreciate the time you\u2019ve taken to bring this to our attention. We invite you to provide feedback to us directly here: https://t.co/eTPVYVFyd8",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_179",
+    "conversation_id": "1864789_1864788",
+    "customer_tweet_id": 1864789,
+    "customer_message": "@AppleSupport MacBook Air w/ El Capitan 10.11.6 Want to search for Word docs by content. Neither Finder nor Spotlight do this. How do I?",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user We'd like to help. Follow up with us in DM. Tell us more details about what you're experiencing when searching there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_180",
+    "conversation_id": "1724413_1724412",
+    "customer_tweet_id": 1724413,
+    "customer_message": "@user @AppleSupport Idk how to fix those \u00ab I\ufe0f \u00bb",
+    "gold_intent": "GENERAL_HOW_TO_INFO",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/qODbOsp4wz",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical query safely solvable via public KB guidance"
+  },
+  {
+    "id": "gold_181",
+    "conversation_id": "926407_926406",
+    "customer_tweet_id": 926407,
+    "customer_message": "@user Sim, t\u00e1 acontecendo comigo tamb\u00e9m! Ajuda a gente @AppleSupport",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Since our Twitter support is available in English, get help at https://t.co/IBIY3vMgPj or join https://t.co/pvaOFfPbjt",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_182",
+    "conversation_id": "648519_648518",
+    "customer_tweet_id": 648519,
+    "customer_message": "my iphone x changes super slow @AppleSupport fix dis",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We've received your DM. Please look there for our reply.",
+    "reference_resolution_points": [
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_183",
+    "conversation_id": "1711973_1711972",
+    "customer_tweet_id": 1711973,
+    "customer_message": "Your stupid fix didn\u2019t work @AppleSupport https://t.co/Z44Dup8I5M",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd like to take a further look at this with you. Please meet us in DM to continue. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_184",
+    "conversation_id": "50843_50841",
+    "customer_tweet_id": 50843,
+    "customer_message": "@AppleSupport I can receive on my facetime - MacBook air. However if I try to vidcall the other person won't get my call. What can I do?",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We're here for you. Check out this article for help with FaceTime: https://t.co/9TOn04wzxN",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "hard",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_185",
+    "conversation_id": "1297982_1297981",
+    "customer_tweet_id": 1297982,
+    "customer_message": "@AppleSupport hello my Mum has been hacked can someone message me please? Thanks",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want to help. DM us more details here: https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_186",
+    "conversation_id": "2488683_2488680",
+    "customer_tweet_id": 2488683,
+    "customer_message": "No @user, I dont want to fucking enable dictation. & thnx 4 not including a no button. I've got 2turn off & turn on my phone 2send messages",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want to hear more about this issue you are experiencing to see how we can help. Provide us some more details on the issue and an example to get started.",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "hard",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_187",
+    "conversation_id": "2006727_2006726",
+    "customer_tweet_id": 2006727,
+    "customer_message": "@AppleSupport The letter after h in the alphabet also pronounced eye",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We appreciate you reaching out to us. The steps in this article should help: https://t.co/xU1AGHStV6 DM us any questions. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_188",
+    "conversation_id": "2373270_2373267",
+    "customer_tweet_id": 2373270,
+    "customer_message": "@user, y\u2019all need to fix this bitchass glitch with the \u201cI\ufe0f\u201d \ud83e\udd2c",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user iOS 11.1.1 was recently released and it includes a fix for autocorrect issues. Be sure to back up your device prior to updating, and let us know if the issue persists afterwards. How to back up: https://t.co/4f8hwTn4fE",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_189",
+    "conversation_id": "1925503_1925505",
+    "customer_tweet_id": 1925503,
+    "customer_message": "@AppleSupport iPhone 6s :-(",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Thanks! How about charging after that update?",
+    "reference_resolution_points": [
+      "Provide standard troubleshooting steps"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_190",
+    "conversation_id": "1689417_1689416",
+    "customer_tweet_id": 1689417,
+    "customer_message": "No @AppleSupport needs to fix this shit https://t.co/wdFM30WQ2h",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/qODbOsp4wz",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_191",
+    "conversation_id": "2210669_2210668",
+    "customer_tweet_id": 2210669,
+    "customer_message": "Nossa vei eu passo uma raiva quando acontece de eu deixar o meu celular filmando 1 hora de time-lapse e n\u00e3o salvar. Socorr fez um v\u00eddeo de 1 segundo, sabe?! N\u00e3o faz sentido sascoisa, n\u00e3o era pra ser assim :((( @AppleSupport",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Since our Twitter support is available in English, get help at https://t.co/IBIY3vMgPj or join https://t.co/pvaOFfPbjt",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "hard",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_192",
+    "conversation_id": "2945659_2945661",
+    "customer_tweet_id": 2945659,
+    "customer_message": "@AppleSupport 11.1.2 On iPhone 7+ It\u2019s not every video. For what it\u2019s worth it was this tweet. https://t.co/GG1I1JLvCO but I can\u2019t get it to recreate it now. \ud83d\ude15",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Next time it happens, send us a DM and we can start looking further into it. For now, try restarting your iPhone. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "hard",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_193",
+    "conversation_id": "2134829_2134828",
+    "customer_tweet_id": 2134829,
+    "customer_message": "@user please fix this \u201cI\ufe0f\u201d thing. Sincerely, everybody",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_194",
+    "conversation_id": "2255516_2255515",
+    "customer_tweet_id": 2255516,
+    "customer_message": "Same @AppleSupport https://t.co/p34RHR79HZ",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user iOS 11.1.1 was recently released and it includes a fix for autocorrect issues. Be sure to back up your device prior to updating, and let us know if the issue persists afterwards. How to back up: https://t.co/4f8hwT5to6",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_195",
+    "conversation_id": "2512284_2512282",
+    "customer_tweet_id": 2512284,
+    "customer_message": "@user @AppleSupport I\u2019m having the same issue. Also: my music and podcasts start/stop randomly. So annoying.",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We'd love to look into this with you. Which device and software version are you using? Please send us a DM and we'll go from there. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "hard",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_196",
+    "conversation_id": "2311851_2311850",
+    "customer_tweet_id": 2311851,
+    "customer_message": "Ok this is getting on my last nerve. @user FIX MY I OR ELSE I\ufe0f SWEAR I\ufe0f WILL WRITE YALL A VERY LONG AND STRONGLY WORDED EMAIL NO HOLDING BACK!1!1",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user An update has been released to assist with this issue. If you haven\u2019t yet, please back up your device and update it to iOS 11.1.1. For more info, check out: https://t.co/4f8hwT5to6",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "hard",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_197",
+    "conversation_id": "2128172_2128170",
+    "customer_tweet_id": 2128172,
+    "customer_message": "I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f @user the fuck is this?",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user Here\u2019s what you can do to work around the issue until it\u2019s fixed in a future software update: https://t.co/xXaXeeSRt9",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_198",
+    "conversation_id": "2889447_2889446",
+    "customer_tweet_id": 2889447,
+    "customer_message": "@AppleSupport My Mac Mini hard disk has crashed thrice in 4 yrs. Machine Serial no. C07JX1WRDWYM, Mumbai, India. Several calls made to help desk to no avail. No escalation available. Can you help me find a permanent solution pls ? in anticipation.",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We want to help. Would you tell us more about what's going on via DM? https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide official Apple Support troubleshooting link",
+      "Escalate / Request Direct Message for account/device inspection"
+    ],
+    "difficulty": "hard",
+    "gold_escalation_reason": "Query requires account/billing inspection or hardware service"
+  },
+  {
+    "id": "gold_199",
+    "conversation_id": "1560008_1560007",
+    "customer_tweet_id": 1560008,
+    "customer_message": "@user @AppleSupport Can y\u2019all please fix how every time I\ufe0f try to say \u201cI\ufe0f\u201d it comes out as I\ufe0f",
+    "gold_intent": "OTHER_AMBIGUOUS_COMPLAINT",
+    "gold_handling_decision": "ESCALATE",
+    "reference_reply": "@user We can help. Take a look at the steps in the following article: https://t.co/xXaXeeSRt9",
+    "reference_resolution_points": [
+      "Provide standard guidance"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Query requires private verification or service"
+  },
+  {
+    "id": "gold_200",
+    "conversation_id": "805645_805644",
+    "customer_tweet_id": 805645,
+    "customer_message": "@AppleSupport @user Bad decision to update to ios11, my phones battery drains even if i am not using it. please fix it.",
+    "gold_intent": "SOFTWARE_UPDATE_ISSUES",
+    "gold_handling_decision": "AUTO_HANDLE",
+    "reference_reply": "@user That is never what we want to hear. Reach out to us in DM and let us know which iPhone you\u2019re using. https://t.co/GDrqU22YpT",
+    "reference_resolution_points": [
+      "Provide standard guidance"
+    ],
+    "difficulty": "medium",
+    "gold_escalation_reason": "Standard technical support guidance"
+  }
+]

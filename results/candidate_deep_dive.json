@@ -1,0 +1,82 @@
+{
+  "AppleSupport": {
+    "company_responses_count": 106860,
+    "customer_inbound_count": 106623,
+    "dm_redirect_rate_sample": 0.544,
+    "avg_response_len": 132.97,
+    "sample_customer_messages": [
+      "@AppleSupport...DL\u2019ed 11.2 on iPhone 8 Plus and X...but no Apple Cash Option in settings??? #help #whereisit",
+      "What the witch tits is going on with my iPhone @115858 ?!?! I updated it and now I can barely get a text out before it restarts!! Get it together!! \ud83e\udd2c\nAttempt 6 to post*",
+      "@AppleSupport iPhone X order reservation not found. Spent 1.5 hours w/ 800-MY-APPLE. Unable to resolve. Deadline 3pm E.\ud83d\ude1f No phone for me?",
+      "@AppleSupport hello I have recently bought the iPhone c and my battery life was great then after a few days with the new updates my battery seems to be draining a lot faster how can I fix this",
+      "@AppleSupport My phone keeps restarting by it self. Don't even try and tell me to go into settings right now because I can't, I can't access my phone. Sos."
+    ],
+    "sample_brand_responses": [
+      "@761707 We offer support via Twitter in English. Get help in Spanish here: https://t.co/IBIY3vMgPj or join https://t.co/OczyRx7IOs",
+      "@265100 Let's meet up in DM and discuss this further. You can reach us at the link below. https://t.co/GDrqU22YpT",
+      "@209478 That backup will be saved in iCloud for 180 days from the last time it was updated. To look for that backup, you can follow the instructions here: https://t.co/vU7gSUiOfd",
+      "@556802 That's not normal. Could you Direct Message us and let us know what country you're in? We'll help out. https://t.co/GDrqU22YpT",
+      "@498856 We'd be happy to see how we can help. What's going on?"
+    ]
+  },
+  "SpotifyCares": {
+    "company_responses_count": 43265,
+    "customer_inbound_count": 41585,
+    "dm_redirect_rate_sample": 0.318,
+    "avg_response_len": 128.84,
+    "sample_customer_messages": [
+      "@SpotifyCares is the iOS app going to be updated to accommodate iPhone X anytime soon?",
+      "@115888 Any ideas?",
+      "@127637 c'est tr\u00e8s urgent svp",
+      "@SpotifyCares Mmm.. i play 2 or 3 songs. Then it begins to jump one after another until it stops. And it does not allow me to do anything. So i clouse and run again the program. But it's the same. Sorry my english it's so bad :/",
+      "@116130 I\u2019m being charged for premium but my account is saying I\u2019m not premium and won\u2019t give me premium features?"
+    ],
+    "sample_brand_responses": [
+      "@562152 We're sorry you feel that way. Sometimes content gets removed due to licensing and legal issues. Hopefully we'll have it back soon /AR",
+      "@151642 Could you send us a screenshot of what you see when you click the link we provided? We'll see what we can do /TB",
+      "@275297 Hey Ciara! Could you DM us your account's email address? We'll take a look backstage /CG https://t.co/ldFdZRiNAt",
+      "@615691 Hey there! Help's here. Can you DM us your account's email address or username? We'll take a look backstage /PB https://t.co/ldFdZRiNAt",
+      "@579705 Thanks for letting us know. Could you send us a DM with your account's email address or username? We'll take a look backstage /QI https://t.co/ldFdZRiNAt"
+    ]
+  },
+  "AmazonHelp": {
+    "company_responses_count": 169840,
+    "customer_inbound_count": 154976,
+    "dm_redirect_rate_sample": 0.128,
+    "avg_response_len": 123.33,
+    "sample_customer_messages": [
+      "@115850 Below message on WhatsApp true or spam?? https://t.co/29vl8ORWCQ",
+      "Amazon India ORDER # 406-xxxxxx-xxx1166\nThird Class Product I suggest to never Buy This Product, Very Very Bad Product... worth as purchased @ rs 125 As well As Amazon Customer Service (Phone Call) Mr. Sumit Has Very Bad Menar &amp; Valgar Talking With Me.",
+      "@AmazonHelp Thanks, but it's not a video, it's a novel",
+      "@115821 I had The Grand Tour: Guide to the World pre-ordered in mid-October, when should it be arriving?",
+      "@AmazonHelp Yeah just clicked on that link tells me to log in and I'm back to the problem..... https://t.co/DDQ4xDEoHX"
+    ],
+    "sample_brand_responses": [
+      "@523365 Ok, please keep us posted here. ^MC",
+      "@193739 Merci pour votre commentaire \ud83d\ude0a Vous avez pu r\u00e9soudre le souci de la commande non livr\u00e9e ? ^MH",
+      "@469296 What was advised when you contacted them? ^PK",
+      "@470927 I'm sorry for this wait. What was the delivery estimate given at Checkout: https://t.co/Y5jpI9gRhE ^DO",
+      "@495154 \u30ea\u30f3\u30af\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u307e\u3059\u304b\uff1f\u305d\u3061\u3089\u304b\u308913\u6841\u306e\u756a\u53f7\u304c\u78ba\u8a8d\u3044\u305f\u3060\u3051\u307e\u3059\u3002\uff25\uff34"
+    ]
+  },
+  "Uber_Support": {
+    "company_responses_count": 56270,
+    "customer_inbound_count": 55182,
+    "dm_redirect_rate_sample": 0.468,
+    "avg_response_len": 112.47,
+    "sample_customer_messages": [
+      "@Uber_Support Hi , unfortunately they replied back with  standard template before I reached out to you. Could you please let me know how 2 resolve this",
+      "@115877 @115877 I appreciate an immediate response and support on this issue",
+      "Hi @Uber_Support how can I report an unexpected trip transfer?",
+      "Uber's  @Uber_Support  service is going from bad to worse as Mr Mahendra KA04D6371 did not receive call neither turned up for the pickup even after waiting for 20 mins. Kindly revert with a strong reason for this nonsense service. But on the other hand thank you @1143",
+      "@Uber_Support I had a super frustrating ubereats experience last night. Close to never using it again. How do I get in contact with you guys?"
+    ],
+    "sample_brand_responses": [
+      "@805293 We can take a look! Send us a note via https://t.co/epjfBJjd4q so our team can get in touch.",
+      "@351427 Issue: Wrong order.  Action: Awaiting tools info, check for support outreach. Provide refund for missing items if needed.",
+      "@206205 Here to help! Send us a DM with your email address with more info so we can assist.",
+      "@120935 Sorry to hear this was your experience! Send us a DM with your email address so we can follow up.",
+      "@356609 Sorry to hear about that! Can you please contact us via https://t.co/593jusCquh so our team can connect."
+    ]
+  }
+}

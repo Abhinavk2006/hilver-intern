@@ -1,0 +1,96 @@
+{
+  "total_rows": 2811774,
+  "columns": [
+    "tweet_id",
+    "author_id",
+    "inbound",
+    "created_at",
+    "text",
+    "response_tweet_id",
+    "in_response_to_tweet_id"
+  ],
+  "top_20_brands": {
+    "AmazonHelp": 169840,
+    "AppleSupport": 106860,
+    "Uber_Support": 56270,
+    "SpotifyCares": 43265,
+    "Delta": 42253,
+    "Tesco": 38573,
+    "AmericanAir": 36764,
+    "TMobileHelp": 34317,
+    "comcastcares": 33031,
+    "British_Airways": 29361,
+    "SouthwestAir": 28977,
+    "VirginTrains": 27817,
+    "Ask_Spectrum": 25860,
+    "XboxSupport": 24557,
+    "sprintcare": 22381,
+    "hulu_support": 21872,
+    "sainsburys": 19466,
+    "GWRHelp": 19364,
+    "AskPlayStation": 19098,
+    "ChipotleTweets": 18749
+  },
+  "candidate_brand_stats": [
+    {
+      "handle": "AmazonHelp",
+      "company_responses": 169840,
+      "customer_inbound_tweets": 154985,
+      "total_associated_turns": 324825
+    },
+    {
+      "handle": "AppleSupport",
+      "company_responses": 106860,
+      "customer_inbound_tweets": 106625,
+      "total_associated_turns": 213485
+    },
+    {
+      "handle": "Uber_Support",
+      "company_responses": 56270,
+      "customer_inbound_tweets": 55215,
+      "total_associated_turns": 111485
+    },
+    {
+      "handle": "SpotifyCares",
+      "company_responses": 43265,
+      "customer_inbound_tweets": 41697,
+      "total_associated_turns": 84962
+    },
+    {
+      "handle": "Delta",
+      "company_responses": 42253,
+      "customer_inbound_tweets": 36168,
+      "total_associated_turns": 78421
+    },
+    {
+      "handle": "Tesco",
+      "company_responses": 38573,
+      "customer_inbound_tweets": 25284,
+      "total_associated_turns": 63857
+    },
+    {
+      "handle": "AmericanAir",
+      "company_responses": 36764,
+      "customer_inbound_tweets": 36457,
+      "total_associated_turns": 73221
+    },
+    {
+      "handle": "TMobileHelp",
+      "company_responses": 34317,
+      "customer_inbound_tweets": 33851,
+      "total_associated_turns": 68168
+    },
+    {
+      "handle": "comcastcares",
+      "company_responses": 33031,
+      "customer_inbound_tweets": 30423,
+      "total_associated_turns": 63454
+    },
+    {
+      "handle": "British_Airways",
+      "company_responses": 29361,
+      "customer_inbound_tweets": 24085,
+      "total_associated_turns": 53446
+    }
+  ]
+}
