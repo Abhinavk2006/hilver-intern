@@ -21,17 +21,40 @@ class GroundedReplyGenerator:
             except Exception as e:
                 print(f"Could not initialize Gemini client: {e}. Using grounded template generator.")
 
+    def generate_static_template_reply(self, predicted_intent: str, decision: str) -> str:
+        """
+        Generates a non-RAG static canned technical template for Baseline 2 evaluation.
+        Uses NO historical retrieval cases or dynamic evidence grounding.
+        """
+        if decision == "ESCALATE":
+            return "Please send us a Direct Message (DM) so we can securely assist with your request: https://t.co/AppleSupportDM"
+
+        static_templates = {
+            "SOFTWARE_UPDATE_ISSUES": "Please check Settings > General > Software Update to ensure your device is running the latest iOS version.",
+            "BATTERY_POWER_ISSUES": "Please check Settings > Battery to view app battery usage breakdown and recommendations.",
+            "DEVICE_FREEZE_REBOOT": "Please force restart your device following the standard Apple Support button press instructions.",
+            "ICLOUD_STORAGE_SYNC": "Please manage your storage directly in Settings > [Your Name] > iCloud.",
+            "CONNECTIVITY_NETWORK_BLUETOOTH": "Please try resetting your network settings in Settings > General > Reset.",
+            "GENERAL_HOW_TO_INFO": "Please check your device Settings or visit support.apple.com for standard configuration steps."
+        }
+        return static_templates.get(predicted_intent, "Please check your device settings or visit support.apple.com for assistance.")
+
     def generate_reply(
         self,
         customer_message: str,
         predicted_intent: str,
         retrieved_cases: List[Dict[str, Any]],
         decision: str,
-        reason: str
+        reason: str,
+        use_rag: bool = True
     ) -> str:
         """
-        Generates a grounded, brand-consistent reply.
+        Generates a reply. If use_rag=False, returns static non-RAG template for Baseline 2.
+        If use_rag=True, generates a grounded, context-aware reply using RAG historical evidence.
         """
+        if not use_rag:
+            return self.generate_static_template_reply(predicted_intent, decision)
+
         top_case = retrieved_cases[0] if retrieved_cases else None
         evidence_reply = top_case['brand_response'] if top_case else ""
 
@@ -92,3 +115,4 @@ Instructions:
         if evidence_reply:
             return f"We'd be glad to help with this! Follow these steps from Apple Support: {evidence_reply[:150]}"
         return "We'd like to help you with this. Please check your settings or restart your device to see if the issue persists."
+

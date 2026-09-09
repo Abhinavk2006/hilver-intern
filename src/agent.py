@@ -13,10 +13,11 @@ class CustomerSupportAgent:
     def __init__(self, top_k: int = 3, mode: str = "main"):
         self.mode = mode
         self.top_k = top_k
-        self.classifier = TFIDFIntentClassifier() if mode == "main" else MajorityIntentClassifier()
+        self.classifier = TFIDFIntentClassifier() if mode in ["main", "baseline_2"] else MajorityIntentClassifier()
         self.retriever = HistoricalRetriever(top_k=top_k)
         self.escalation_policy = EscalationPolicy()
         self.generator = GroundedReplyGenerator()
+
 
     def process_message(self, message: str, tweet_id: int = None) -> Dict[str, Any]:
         """
@@ -47,13 +48,23 @@ class CustomerSupportAgent:
         # Step 5: Grounded Reply Generation
         if self.mode == "trivial_baseline":
             reply = "Thank you for reaching out to Apple Support. Please restart your device or visit https://support.apple.com for assistance."
+        elif self.mode == "baseline_2":
+            reply = self.generator.generate_reply(
+                customer_message=cleaned_msg,
+                predicted_intent=predicted_intent,
+                retrieved_cases=retrieved_cases,
+                decision=decision,
+                reason=reason,
+                use_rag=False
+            )
         else:
             reply = self.generator.generate_reply(
                 customer_message=cleaned_msg,
                 predicted_intent=predicted_intent,
                 retrieved_cases=retrieved_cases,
                 decision=decision,
-                reason=reason
+                reason=reason,
+                use_rag=True
             )
 
         return {
@@ -65,3 +76,4 @@ class CustomerSupportAgent:
             "reply": reply,
             "evidence": retrieved_cases
         }
+
